@@ -2,7 +2,7 @@
 
 На фото вы видите меня на фоне гор — это один из моих любимых походов прошлым летом.
 
-[photo]()
+[photo](https://raw.githubusercontent.com/dx-name/my_repository_test/refs/heads/main/photo_repo.jpeg)
 
 **Что люблю:**
 - активный отдых;
